@@ -4,4 +4,5 @@
 
 void main(String[] args) {
     System.out.println("JLox Version 0.0.1");
+    return;
 }
